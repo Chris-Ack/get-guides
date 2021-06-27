@@ -15,6 +15,7 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
+    <li><a href="#initial-advisory">Initial Advisory</a></li>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#license">License</a></li>
@@ -22,6 +23,16 @@
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
+
+<!-- Initial Advisory -->
+
+## Initial Advisory
+
+GetGuides was created as a senior project for the Code Chrysalis Advanced Software Engineering Program.
+After the course finished, our team decided to create personal forks for the repository in case we chose to continue working on it.
+The work done as a team during the course can be found in the "SeniorWorkFinished" Branch. 
+All other branches build up on this work, and contain my own additions.
+Major thanks go to TeamKraken! 
 
 <!-- ABOUT THE PROJECT -->
 
@@ -33,6 +44,9 @@ When organizing a trip somewhere, finding and hiring a guide is currently the on
 
 Get Guides aims to free travellers from that burden and allows them to directly access and interact with guides🔥
 
+
+<!-- BUILT WITH -->
+
 ## Built With
 
 - [Quasar](https://quasar.dev/)
@@ -41,6 +55,8 @@ Get Guides aims to free travellers from that burden and allows them to directly 
 - [Python](https://www.python.org)
 - [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 - [MongoDB](https://www.mongodb.com)
+
+<!-- License -->
 
 ## License
 
