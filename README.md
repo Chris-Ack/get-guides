@@ -60,7 +60,7 @@ Get Guides aims to free travellers from that burden and allows them to directly 
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <!-- CONTACT -->
 
